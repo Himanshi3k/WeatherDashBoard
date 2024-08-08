@@ -18,4 +18,6 @@ The **Weather Dashboard** is a web application that provides real-time weather i
 - Click "Search" to display the current weather, a dynamic UI based on the time of day, and a 7-day forecast.
 
 ## Screenshots
+![Weather forecast (day)](image1.jpg)
+![Weather Forecast (night)](image2.jpg)
 
